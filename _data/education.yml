@@ -1,6 +1,15 @@
- Degreergoiirjo;iegiosj;eroijeroig
-- degree: Full Stack Webdeveloper Nanodegree         Hello I am going to speak to you about nothing this is just something I am typing on multiple lines at the same time 
-  uni: Udacity        Hello I am going to speak to you about nothing this is just something I am typing on multiple lines at the same time
-  year: June, 2014 &mdash; January, 2015        Hello I am going to speak to you about nothing this is just something I am typing on multiple lines at the same time
-  awards: nothing
-  summary: yooooooooooooooooooooo
+
+ Degree
+- degree: Full Stack Webdeveloper Nanodegree          
+  uni: Udacity        
+  year: June, 2014 &mdash; January, 2015        
+  # awards: 
+  #summary:
+=======
+# Degree
+- degree: Full Stack Webdeveloper Nanodegree
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+
